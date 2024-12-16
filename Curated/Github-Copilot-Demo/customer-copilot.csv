@@ -1,0 +1,11 @@
+customer_id,email,first_name,last_name,gender,street,city,country_code
+1,john.doe@example.com,John,Doe,Male,123 Elm St,Springfield,US
+2,jane.smith@example.com,Jane,Smith,Female,456 Oak St,Metropolis,US
+3,bob.jones@example.com,Bob,Jones,Male,789 Pine St,Gotham,US
+4,alice.brown@example.com,Alice,Brown,Female,101 Maple St,Star City,US
+5,charlie.davis@example.com,Charlie,Davis,Male,202 Birch St,Central City,US
+6,eve.wilson@example.com,Eve,Wilson,Female,303 Cedar St,Coast City,US
+7,frank.miller@example.com,Frank,Miller,Male,404 Walnut St,Blüdhaven,US
+8,grace.lee@example.com,Grace,Lee,Female,505 Ash St,National City,US
+9,henry.moore@example.com,Henry,Moore,Male,606 Cherry St,Opal City,US
+10,ivy.taylor@example.com,Ivy,Taylor,Female,707 Fir St,Keystone City,US
